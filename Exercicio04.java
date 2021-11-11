@@ -13,7 +13,7 @@ public class Exercicio04 {
 			outrosCalmos = 0, nervosoMais40 = 0, calmoMenos18 = 0;
 		
 		
-		while(npessoas < 5) {
+		while(npessoas <= 150){
 		System.out.println("Digite sua idade: ");
 		idade = read.nextInt();
 		
